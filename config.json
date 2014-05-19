@@ -1,0 +1,6 @@
+{
+  "service": "drive",
+  "drive": "~/Google Drive",
+  "dropbox": "~/Dropbox",
+  "directory": "ethereal"
+}
