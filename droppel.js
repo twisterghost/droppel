@@ -35,7 +35,7 @@ if (argv.config) {
 }
 
 if (!file && !argv.unlink) {
-	console.log("csync");
+	console.log("droppel");
 	console.log("Persist any file in any place\n")
 	console.log("Usage: ethereal [--unlink --config] file\n\n");
 	console.log("Options:")
