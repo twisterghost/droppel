@@ -39,7 +39,7 @@ if (argv.config) {
 if (!file && !argv.unlink) {
 	console.log("droppel");
 	console.log("Persist any file in any place\n")
-	console.log("Usage: ethereal [--unlink --config] file\n\n");
+	console.log("Usage: droppel [--unlink --config] file\n\n");
 	console.log("Options:")
 	console.log("--unlink                 Stop persisting the given file");
 	console.log("--config                 Set a config option\n\n");
