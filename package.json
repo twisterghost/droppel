@@ -1,6 +1,6 @@
 {
   "name": "droppel",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Persist single files or directories wherever you like",
   "main": "droppel.js",
   "dependencies": {
@@ -19,6 +19,6 @@
   "license": "MIT",
   "preferGlobal" : "true",
   "bin" : {
-    "droppel" : "node droppel.js"
+    "droppel" : "droppel.js"
   }
 }
