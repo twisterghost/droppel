@@ -19,6 +19,6 @@
   "license": "MIT",
   "preferGlobal" : "true",
   "bin" : {
-    "droppel" : "droppel.js"
+    "droppel" : "node droppel.js"
   }
 }
